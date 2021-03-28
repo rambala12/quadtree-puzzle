@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -Wall -Werror -Wno-varargs -Wno-char-subscripts -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/scratch.dir/scratch.cpp.o CMakeFiles/scratch.dir/Puzzle.cpp.o CMakeFiles/scratch.dir/QuadTree.cpp.o  -o scratch  -L/usr/X11R6/lib 
