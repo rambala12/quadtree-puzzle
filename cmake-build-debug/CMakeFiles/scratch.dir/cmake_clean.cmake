@@ -1,9 +1,12 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/scratch.dir/scratch.cpp.o"
   "CMakeFiles/scratch.dir/Puzzle.cpp.o"
+  "CMakeFiles/scratch.dir/Puzzle.cpp.o.d"
   "CMakeFiles/scratch.dir/QuadTree.cpp.o"
-  "scratch.pdb"
+  "CMakeFiles/scratch.dir/QuadTree.cpp.o.d"
+  "CMakeFiles/scratch.dir/scratch.cpp.o"
+  "CMakeFiles/scratch.dir/scratch.cpp.o.d"
   "scratch"
+  "scratch.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
